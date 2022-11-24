@@ -3,10 +3,10 @@
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY:
-
-Developed By:P.Siva Naga Nithin.
-Reg.No:212221240037.
-
+```
+Developed By:P.SYAM TEJ.
+Reg.No:212221240056.
+```
 ### Procedure 
 
 Start the Quartus II Programmer.
